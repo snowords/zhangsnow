@@ -1,6 +1,8 @@
-**[antfu.me](https://antfu.me)**
+**[zhangsnow](https://snoword.netlify.app/)**
 
-my personal website
+[![Netlify Status](https://api.netlify.com/api/v1/badges/11dbfb73-dac1-4807-a2e5-e2545880f480/deploy-status)](https://app.netlify.com/sites/snoword/deploys)
+
+My personal website
 
 <br>
 
